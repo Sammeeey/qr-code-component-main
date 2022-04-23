@@ -23,7 +23,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![My solution for all screen sizes](./progress_documentation/all_screens_result.png)
 
-https://user-images.githubusercontent.com/49591562/164887658-9c31b76b-5e36-4465-a7e2-cf2492d45ccf.mp4
+![](https://github.com/Sammeeey/qr-code-component-main/blob/165b965368b4acef57a8258144f80bade9e55b5b/progress_documentation/all_screens_result.gif)
+
+<!-- https://user-images.githubusercontent.com/49591562/164887658-9c31b76b-5e36-4465-a7e2-cf2492d45ccf.mp4 -->
 
 <!-- Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
