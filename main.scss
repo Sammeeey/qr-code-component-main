@@ -3,13 +3,15 @@
 body {
     background: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
+    text-align: center;
 }
 
 .card {
     background: white;
-    text-align: center;
+    // text-align: center;
+    width: 318px;
     margin: 5em auto;
-    max-width: 85vw;
+    // max-width: 85vw;
     box-shadow: 0 1.6em 2em hsla(220, 15%, 55%, .15);
     border-radius: 1.2em;
     
@@ -34,37 +36,16 @@ body {
         }
 
     }
-
-.attribution {
-    font-size: 10em;
 }
-    
-} 
 
+footer {
+    text-align: center;
+    font-size: 10em;
 
-@media only screen and (min-width: 376px) {
-    h1 {
-        font-size: 200px;
+    .attribution {
+        font-size: 11px; text-align: center;
+    }
+    .attribution a {
+        color: hsl(228, 45%, 44%);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }

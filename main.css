@@ -2,13 +2,13 @@
 body {
   background: #d6e2f0;
   font-family: 'Outfit', sans-serif;
+  text-align: center;
 }
 
 .card {
   background: white;
-  text-align: center;
+  width: 318px;
   margin: 5em auto;
-  max-width: 85vw;
   -webkit-box-shadow: 0 1.6em 2em rgba(123, 135, 157, 0.15);
           box-shadow: 0 1.6em 2em rgba(123, 135, 157, 0.15);
   border-radius: 1.2em;
@@ -34,22 +34,17 @@ body {
   font-size: 15px;
 }
 
-.card .attribution {
+footer {
+  text-align: center;
   font-size: 10em;
 }
 
-@media only screen and (min-width: 376px) {
-  h1 {
-    font-size: 200px;
-  }
-}
-
-.attribution {
+footer .attribution {
   font-size: 11px;
   text-align: center;
 }
 
-.attribution a {
+footer .attribution a {
   color: #3e52a3;
 }
 /*# sourceMappingURL=main.css.map */
